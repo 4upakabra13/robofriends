@@ -1,4 +1,4 @@
-# ROBOFRIENDS, My first react project!
+# ROBOFRIENDS, My first react project! :robot:
 
 <h2>Overview</h2>
 
